@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, moi c'est Quentin !
 
-<!--
-**qpetitdev/qpetitdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur full stack avec une appétence particulière pour le backend, j'aime travailler avec **Laravel**, **Vue.js** et j'aimerais me diversifier dans de nouveaux langages back, par exemple **Golang**. J'essaye toujours d'utiliser ce que j'apprends pour rendre mon code plus clean !
 
-Here are some ideas to get you started:
+### 🔧 Stack principale
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Intéressé par 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+💬 Toujours partant pour discuter dev, n'hésite pas à me contacter ! 😃
+
+🔗 [Mon LinkedIn](https://www.linkedin.com/in/petit-quentin)
