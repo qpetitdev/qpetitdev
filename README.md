@@ -1,6 +1,6 @@
 ## Hello, moi c'est Quentin !
 
-Développeur full stack avec une appétence particulière pour le backend, j'aime travailler avec **Laravel**, **Vue.js** et j'aimerais me diversifier dans de nouveaux langages back, par exemple **Golang**. J'essaye toujours d'utiliser ce que j'apprends pour rendre mon code plus clean !
+Développeur full stack avec une appétence particulière pour le backend, j'aime travailler avec **Laravel**, **Vue.js** et j'aimerais me diversifier dans de nouveaux langages back. J'essaye toujours d'utiliser ce que j'apprends pour rendre mon code plus clean !
 
 ### 🔧 Stack principale
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
